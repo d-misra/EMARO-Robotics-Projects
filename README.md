@@ -22,14 +22,21 @@ The first two semesters were completed at Warsaw University of Technology (WUT) 
 - Kinematic analysis of 3RRR planar parallel robot
 
 ## Some demos
+
 **Line-follower robot**
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/k6WwN-0XTeE/0.jpg)](http://www.youtube.com/watch?v=k6WwN-0XTeE "Video Title")
 
+
 **Obstacle avoidance by Bug2 algorithm**
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/0qlQZZPEeEU/0.jpg)](http://www.youtube.com/watch?v=0qlQZZPEeEU "Video Title")
 
+
 **Welding Tasks**
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/QM8XxKoXPEM/0.jpg)](http://www.youtube.com/watch?v=QM8XxKoXPEM "Video Title")
+
 
 ### Master-Thesis
 **Title** : Learning to grasp with a jamming gripper using the Black-DROPS algorithm. 
